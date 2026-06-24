@@ -1,0 +1,58 @@
+// app/data.js
+export const items = [
+  {
+    id: 1,
+    name: "The Avengers",
+    blurb: "A team of extraordinary superheroes who unite to protect Earth from massive, world-threatening dangers that no single hero can defeat alone.",
+    rating: 5,
+    emoji: "🦸‍♂️💥👽",
+    image: "/The Avengers.jpeg",
+    year: 2012,
+  },
+  {
+    id: 2,
+    name: "Mission Impossible Fallout",
+    blurb: "Ethan Hunt must race against time and his own government to stop a global nuclear catastrophe.",
+    rating: 5,
+    emoji: "🕴️🕶️🚁💥",
+    image: "/mission impossible.jpeg",
+    year: 2018,
+  },
+  {
+    id: 3,
+    name: "Spider-Man: No Way Home",
+    blurb: "Peter Parker accidentally ruptures the multiverse while trying to restore his secret identity, forcing him to battle villains from other realities.",
+    rating: 5,
+    emoji: "🕷️🧙‍♂️🌀🚪",
+    image: "/spiderman.jpeg",
+    year: 2021,
+  },
+  {
+    id: 4,
+    name: "Avatar Aang: The Last Airbender",
+    blurb: "Years after their childhood adventures, a fully grown Team Avatar must reunite as young adults to help a surviving airbender protect the legacy of the Air Nomads.",
+    rating: 5,
+    emoji: "🧑‍🦲⬇️🧘‍♂️💨",
+    image: "/Avatar.jpeg",
+    year: 2026,
+  },
+  {
+    id: 5,
+    name: "The Gladiator",
+    blurb: "A betrayed Roman general is reduced to a slave and must fight his way through the gladiator arenas to avenge his murdered family and emperor.",
+    rating: 4,
+    emoji: "🏛️🗡️🐅🩸",
+    image: "/gladiator.jpeg",
+    year: 2000,
+  },
+  {
+    id: 6,
+    name: "The Matrix",
+    blurb: "A betrayed Roman general is reduced to a slave and must fight his way through the gladiator arenas to avenge his murdered family and emperor.A computer hacker discovers his reality is a dystopian simulation and joins a rebellion to free humanity from the machines.",
+    rating: 4,
+    emoji: "🔴💊🔵🖥️",
+    image: "/The Matrix.jpeg",
+    year: 1999,
+  },
+  
+];
